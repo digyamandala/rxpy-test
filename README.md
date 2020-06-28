@@ -1,2 +1,2 @@
 # rxpy-test
-Learn ReactiveX python
+Simple Testing ReactiveX python
